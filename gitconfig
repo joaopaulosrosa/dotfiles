@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joaopaulosrosa@gmail.com
+	name = Joao Paulo Rosa
